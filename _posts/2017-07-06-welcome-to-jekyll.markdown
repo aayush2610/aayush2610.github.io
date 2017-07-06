@@ -2,7 +2,7 @@
 layout: post
 title:  "The Power of WHY!"
 date:   2017-07-06 21:44:46
-categories: Technical
+categories: Philosophical
 ---
 A 'Why' in it's own simplistic way is the foundation of giving out solutions to all the complexities of the universe. The irony of this word is, being a question in itself, it drives you to build an answer. The reason that we humans developed to an extent such as today is because we challenged ourselves and we have the power to question ourselves and build logically and rationally sound solutions for the questions.
 
